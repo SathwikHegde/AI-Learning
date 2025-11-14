@@ -8,23 +8,23 @@ This repository serves as a hub for resources, code, and notes for this **self-d
 * **Key Topics:** Exploring the intersection of Artificial Intelligence and business strategy.
 * **Support Note:** No faculty or course assistants are actively monitoring this space. We encourage **peer-to-peer engagement** via the course forums and this repository's discussion features.
 
-## 🎯 Course Objectives: What You Will Learn
+## Course Objectives: What You Will Learn
 
 This course is focused on bridging the gap between AI technology and business application. Upon completion, you will have gained:
 
-### **🧠 Core Knowledge**
+### ** Core Knowledge**
 * A clear understanding of what **AI** truly means (distinguishing real applications from hype).
 * Insight into **Key Machine Learning algorithms** used to build AI systems.
 * The **sequence** and methodology for building end-to-end AI solutions.
 * The application of AI in various industries, including **Energy, Finance, Health Care, Education, and Retail**.
 * Strategies for building and managing an **AI team**.
 
-### **🛠️ Applicable Skills**
+### **Applicable Skills**
 * Basic **Python programming** skills relevant to AI.
 * Techniques for **Data processing** (structured and unstructured data, including text and images).
 * Implementation skills for systems like **text classification** and **facial recognition**.
 
-## 👥 Target Audience & Prerequisites
+## Target Audience & Prerequisites
 
 | Category | Description |
 | :--- | :--- |
@@ -33,7 +33,7 @@ This course is focused on bridging the gap between AI technology and business ap
 
 ---
 
-## 📚 Modules Overview
+## Modules Overview
 
 The course is structured into seven comprehensive modules:
 
@@ -54,11 +54,11 @@ The course is structured into seven comprehensive modules:
 * **Graded Quizzes:** These test your understanding of the lectures. They are **self-paced** with **unlimited attempts**, and the **highest score** will be counted.
 * **Ungraded Discussion:** Optional prompts designed for further engagement and peer interaction.
 
-> ℹ️ **Note:** Please refer to the **Certificate FAQ Page** for detailed information on certificates and course completion requirements.
+> **Note:** Please refer to the **Certificate FAQ Page** for detailed information on certificates and course completion requirements.
 
 ---
 
-## 🤝 Community Note & Support
+## Community Note & Support
 
 This is a **self-directed** course environment.
 
@@ -66,6 +66,6 @@ This is a **self-directed** course environment.
 
 **Course Developed By:** Sameer R. Maskey, Adjunct Associate Professor of International and Public Affairs.
 
-Here is the updated and beautified README, incorporating the impressive bio of Dr. Sameer R. Maskey.
+**1.1 Introduction to AI for Business pt1**
+This introductory lecture introduces the course, which covers a fundamental understanding of AI, how it is being applied in business, how to implement an AI project within a company, and how to build AI teams.
 
-***
