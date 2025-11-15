@@ -66,6 +66,8 @@ This is a **self-directed** course environment.
 
 **Course Developed By:** Sameer R. Maskey, Adjunct Associate Professor of International and Public Affairs.
 
-**1.1 Introduction to AI for Business pt1**
+**Module 1 Introduction to AI for Business pt1**
 This introductory lecture introduces the course, which covers a fundamental understanding of AI, how it is being applied in business, how to implement an AI project within a company, and how to build AI teams.
 
+**Module 2: ML Model**
+This module dives into the core concepts of Machine Learning (ML) models, essential for building any AI solution. It explores the different types of models, how they learn, and how to evaluate their performance in a business context.
