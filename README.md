@@ -71,3 +71,6 @@ This introductory lecture introduces the course, which covers a fundamental unde
 
 **Module 2: ML Model**
 This module dives into the core concepts of Machine Learning (ML) models, essential for building any AI solution. It explores the different types of models, how they learn, and how to evaluate their performance in a business context.
+
+**Module 3: Python Basics**
+This module focuses on developing the necessary basic Python programming skills required for implementing AI applications. Topics include fundamental syntax, data structures, and the basic coding needed for data handling and model preparation.
