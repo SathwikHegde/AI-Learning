@@ -74,3 +74,6 @@ This module dives into the core concepts of Machine Learning (ML) models, essent
 
 **Module 3: Python Basics**
 This module focuses on developing the necessary basic Python programming skills required for implementing AI applications. Topics include fundamental syntax, data structures, and the basic coding needed for data handling and model preparation.
+
+**Module 4: Building AI System for Customer Service**
+This module marks the transition to practical application by focusing on a specific industry use case: Customer Service. You will learn the sequence of steps for building a complete AI solution in this domain, likely covering technologies like text classification and NLP for managing customer inquiries.
