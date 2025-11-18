@@ -77,3 +77,8 @@ This module focuses on developing the necessary basic Python programming skills 
 
 **Module 4: Building AI System for Customer Service**
 This module marks the transition to practical application by focusing on a specific industry use case: Customer Service. You will learn the sequence of steps for building a complete AI solution in this domain, likely covering technologies like text classification and NLP for managing customer inquiries.
+
+**Module 5: AI for Finance**
+This module explores the transformative role of AI within the Finance industry. It covers practical applications such as algorithmic trading, fraud detection, risk management, and personalized financial advice.
+
+
