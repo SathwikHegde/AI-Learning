@@ -81,4 +81,10 @@ This module marks the transition to practical application by focusing on a speci
 **Module 5: AI for Finance**
 This module explores the transformative role of AI within the Finance industry. It covers practical applications such as algorithmic trading, fraud detection, risk management, and personalized financial advice.
 
+**Module 6: AI for Retail**
+This module focuses on how Artificial Intelligence is revolutionizing the Retail sector. It examines key use cases, including personalized recommendations, inventory optimization, demand forecasting, and enhancing the in-store and online customer experience.
 
+
+
+Module 6: AI for Retail
+This module focuses on how Artificial Intelligence is revolutionizing the Retail sector. It examines key use cases, including personalized recommendations, inventory optimization, demand forecasting, and enhancing the in-store and online customer experience
