@@ -84,7 +84,5 @@ This module explores the transformative role of AI within the Finance industry. 
 **Module 6: AI for Retail**
 This module focuses on how Artificial Intelligence is revolutionizing the Retail sector. It examines key use cases, including personalized recommendations, inventory optimization, demand forecasting, and enhancing the in-store and online customer experience.
 
-
-
-Module 6: AI for Retail
-This module focuses on how Artificial Intelligence is revolutionizing the Retail sector. It examines key use cases, including personalized recommendations, inventory optimization, demand forecasting, and enhancing the in-store and online customer experience
+**Module 7: AI for Health Care**
+This final module explores the powerful applications of AI within the Health Care industry. Topics will cover areas like diagnostic imaging analysis, drug discovery, personalized medicine, and optimizing patient care and hospital operations.
