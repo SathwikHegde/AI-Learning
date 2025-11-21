@@ -86,3 +86,11 @@ This module focuses on how Artificial Intelligence is revolutionizing the Retail
 
 **Module 7: AI for Health Care**
 This final module explores the powerful applications of AI within the Health Care industry. Topics will cover areas like diagnostic imaging analysis, drug discovery, personalized medicine, and optimizing patient care and hospital operations.
+
+**Feedback**
+Your input is valued! Please complete the Post-Course Survey at the end of the course. This feedback helps improve future offerings.
+
+If you are experiencing any technical issues, please contact askplus@columbia.edu.
+
+
+
