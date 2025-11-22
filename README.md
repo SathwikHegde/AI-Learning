@@ -92,5 +92,20 @@ Your input is valued! Please complete the Post-Course Survey at the end of the c
 
 If you are experiencing any technical issues, please contact askplus@columbia.edu.
 
+Here is the draft for the **Certificate** addition, formatted for inclusion in your README's "Earning Your Certificate (Grading)" section.
 
+## Earning Your Certificate (Grading)
+
+To successfully earn a course **Certificate** from Columbia University, you must meet the following criteria:
+
+1.  **View** all of the learning pages.
+2.  Achieve a score of **60% or more on the quizzes**.
+3.  **Submit a response** to the self-check questions.
+
+### **Learning Activities**
+
+* **Graded Quizzes:** These test your understanding of the lectures. They are **self-paced** with **unlimited attempts**, and the **highest score** will be counted.
+* **Ungraded Discussion:** Optional prompts designed for further engagement and peer interaction.
+
+>  **Note:** Please refer to the dedicated **Certificate FAQ Page** for detailed information on certificates and course completion requirements.
 
