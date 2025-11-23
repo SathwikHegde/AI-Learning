@@ -108,4 +108,3 @@ To successfully earn a course **Certificate** from Columbia University, you must
 * **Ungraded Discussion:** Optional prompts designed for further engagement and peer interaction.
 
 >  **Note:** Please refer to the dedicated **Certificate FAQ Page** for detailed information on certificates and course completion requirements.
-
