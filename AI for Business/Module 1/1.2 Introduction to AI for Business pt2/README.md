@@ -1,0 +1,1 @@
+This video lecture discusses the definitions and relationships between AI, machine learning, and deep learning. Machine learning is the foundation of most modern AI systems, and deep learning is just one type of machine learning algorithm. The video also briefly touches on the history of AI.
