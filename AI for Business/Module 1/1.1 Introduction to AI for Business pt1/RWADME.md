@@ -1,0 +1,1 @@
+This introductory lecture introduces the course, which covers a fundamental understanding of AI, how it is being applied in business, how to implement an AI project within a company, and how to build AI teams.
