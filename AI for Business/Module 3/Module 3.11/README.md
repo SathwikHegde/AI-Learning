@@ -1,0 +1,2 @@
+3.11 Getting Dataset
+This video lecture introduces the idea of building a face recognition system and demonstrates how to use Python and machine learning libraries to create one. The lecture also covers the concept of data wrangling and processing in order to prepare the data for machine learning algorithms.
