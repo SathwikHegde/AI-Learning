@@ -1,0 +1,2 @@
+3.12 Using Dataset
+This video lecture covers data wrangling and processing techniques using Python and the "Labeled Faces in the Wild" dataset as an example. The lecturer demonstrates how to access and manipulate the data, including printing the names and pixel values for images of individuals in the dataset.
