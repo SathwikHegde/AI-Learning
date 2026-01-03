@@ -1,0 +1,2 @@
+4.4 Building AI Systems for Customer Service pt3
+This video lecture discusses the importance of data in building an AI system for customer service. It suggests that data requirements should be identified early in the process and access to data from different sources should be facilitated. The video also discusses the different channels of customer interaction and the various types of data that can be generated, such as web browsing history, email content, and chat transcripts.
