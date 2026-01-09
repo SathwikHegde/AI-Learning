@@ -1,0 +1,2 @@
+4.5 Building AI Systems for Customer Service pt4
+This video lecture discusses the importance of understanding the type and quality of data available when building an AI system for customer service. It suggests categorizing data into structured and unstructured data and using appropriate algorithms and techniques to process them.
