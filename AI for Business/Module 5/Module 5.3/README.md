@@ -1,0 +1,2 @@
+5.3 AI for Finance pt3
+This video lecture provides examples of banks and financial institutions experimenting with conversational interfaces and highlights some of the providers and tools used in this area. It also cautions that building effective dialog systems is challenging and that there are limitations to what conversational interfaces can do.
