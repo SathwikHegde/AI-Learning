@@ -1,0 +1,2 @@
+5.4 AI for Finance pt4
+This video lecture discusses how AI is being used in finance for compliance-related issues, fraud detection, and KYC/AML. The increasing complexity of regulations and the need for real-time compliance monitoring has led to partnerships between banks and companies that provide compliance tools. The video provides examples of such partnerships and highlights the key areas where AI is being used in compliance and RegTech.
