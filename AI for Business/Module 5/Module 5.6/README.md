@@ -1,0 +1,2 @@
+5.6 AI for Finance pt6
+This video lecture discusses the challenges that financial institutions face in implementing AI, including siloed data, compliance complexity, explainability, outdated infrastructure, lack of an overall strategy, and a shortage of talent.
