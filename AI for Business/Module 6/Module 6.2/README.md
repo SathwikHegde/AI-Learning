@@ -1,0 +1,2 @@
+6.2 AI for Retail pt2
+This video lecture discusses how large companies such as IBM, Microsoft, and Cognizant are framing their AI product and service offerings for the retail industry. The focus is on personalization and improving both customer-facing and internal operations, with examples including real-time engagement, relevant recommendations, and synchronized offline and online retail.
