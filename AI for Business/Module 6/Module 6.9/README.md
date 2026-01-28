@@ -1,0 +1,2 @@
+6.9 AI for Retail pt9
+This video lecture summarizes AI in a retail setting, noting that an overarching strategy is needed to integrate various AI applications into brick-and-mortar and online stores to improve efficiency and provide better buying experiences.
