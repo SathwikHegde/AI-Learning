@@ -1,0 +1,2 @@
+7.1 AI for Healthcare pt1
+This video lecture introduces AI in healthcare, which has potential from robotic surgeries to preventive care and fraud prevention in insurance. According to reports from Accenture and Global Market Insights, the spending on AI in healthcare is predicted to grow exponentially, with drug discovery being one of the biggest areas of investment.
