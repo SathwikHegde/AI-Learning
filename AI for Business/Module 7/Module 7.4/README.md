@@ -1,0 +1,2 @@
+7.4 AI for Healthcare pt4
+This video lecture discusses how AI is transforming healthcare diagnosis by analyzing test outputs such as X-rays, MRI scans, and pathology reports. New AI systems can provide a ranked list of potential diseases, allowing doctors to make better diagnoses.
