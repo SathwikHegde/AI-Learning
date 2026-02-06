@@ -1,0 +1,2 @@
+7.7 AI for Healthcare pt7
+This video lecture explores various ways that AI can help reduce the cost of drug discovery and clinical trials in the pharmaceutical industry, such as speeding up drug discovery, mining historical data to improve drugs, and reducing patient recruitment costs by analyzing patient data and finding potential matches for clinical trials.
