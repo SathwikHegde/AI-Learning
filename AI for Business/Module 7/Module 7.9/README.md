@@ -1,0 +1,2 @@
+7.9 AI for Healthcare pt9
+This video lecture concludes the exploration of AI for the healthcare industry, highlighting promising avenues for improvement and limitations that researchers will need to keep in mind.
