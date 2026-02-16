@@ -1,0 +1,2 @@
+7.2 AI for Healthcare pt2
+This video lecture explores some of the industry trends in applications of AI in health care. By looking at solutions from the larger companies, we will find solution patterns, and try to synthesize the core underpinnings of how AI is being applied in health care.

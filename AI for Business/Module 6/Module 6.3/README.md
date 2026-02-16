@@ -1,2 +1,0 @@
-6.3 AI for Retail pt3
-This video lecture covers the first buckets for AI use in retail: product development, sourcing, and supply chain. AI can be used to improve the end-to-end supply chain process, from manufacturing to delivery, by using additional sources of data to predict disruptions, performing predictive maintenance, and modeling demand for better inventory management.

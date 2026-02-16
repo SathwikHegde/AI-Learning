@@ -1,2 +1,0 @@
-7.5 AI for Healthcare pt5
-This video lecture explores how AI is transforming treatments and clinical decision making by using robotic systems like Da Vinci for noninvasive surgeries, and analyzing patient data to tailor prescriptions. These systems can help prevent errors in prescriptions and provide recommendations to doctors, based on signals from treatment devices like ultrasounds.

@@ -1,2 +1,0 @@
-7.6 AI for Healthcare pt6
-This video lecture discusses how AI can be used in healthcare systems to automate workflows, such as claims and fraud prevention, inventory management, and compliance monitoring. Machine learning systems can help detect anomalies in claims and prevent fraud, as well as automate form filling, decision making, and approvals.

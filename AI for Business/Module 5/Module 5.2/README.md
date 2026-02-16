@@ -1,2 +1,0 @@
-5.2 AI for Finance pt2
-This video lecture discusses how AI is being used in the finance industry to improve customer experience and employee productivity, and suggests that AI's impact in finance can be framed by its ability to improve customer experience and employee productivity.

@@ -1,0 +1,2 @@
+5.5 AI for Finance pt5
+This video lecture discusses how AI is being applied to various workflows within the finance industry, including lending, underwriting, investment management, risk management, and insurance. The lecture also highlights key players in these areas and emphasizes the potential for automation in customer service and other departments.

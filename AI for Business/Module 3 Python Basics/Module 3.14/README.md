@@ -1,0 +1,2 @@
+3.14 Using ML Models to Make Prediction
+This video lecture shows how to use the model to predict the identity of a face in an image. The pixel values of the image are reshaped and passed to the predict function of the logistic regression model, which returns a predicted label.

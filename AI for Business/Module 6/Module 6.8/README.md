@@ -1,2 +1,0 @@
-6.8 AI for Retail pt8
-This video lecture elaborates on AI retail applications. The lecture notes the tech market map, showing various ways AI can be used in customer service in retail, including chatbots and smart receipts systems.

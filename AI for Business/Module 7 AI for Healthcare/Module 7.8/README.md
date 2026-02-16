@@ -1,0 +1,2 @@
+7.8 AI for Healthcare pt8
+This video lecture explores further applications for the use of AI in healthcare, and the ways that large healthcare corporations can implement these systems into their business.

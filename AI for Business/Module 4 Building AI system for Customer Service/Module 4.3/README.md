@@ -1,0 +1,2 @@
+4.3 Building AI Systems for Customer Service pt2
+This video lecture covers steps to build an AI system, starting by identifying the problem and potential sources of value, such as reducing call volume or handle time. The second step is to determine the data requirements for the AI system. The lecture provides examples of how AI can be used to reduce handle time, such as using biometric verification or question-answering systems.

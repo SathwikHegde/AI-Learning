@@ -1,0 +1,2 @@
+5.7 AI for Finance pt7
+This video lecture summarizes the potential impact of AI in the finance industry, with projections of over $1 trillion in GDP impact. It also notes several prominent limitations to the technology.

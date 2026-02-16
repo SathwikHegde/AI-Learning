@@ -1,0 +1,2 @@
+6.6 AI for Retail pt6
+This video lecture covers AI applications for retail marketing. In this regard, AI can improve marketing by providing personalized messages, recommendations, and promotions to individual buyers. Machine learning can process large amounts of data to create personalized marketing at scale.

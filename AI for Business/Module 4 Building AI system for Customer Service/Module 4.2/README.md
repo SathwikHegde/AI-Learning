@@ -1,0 +1,2 @@
+4.2 Building AI Systems for Customer Service pt1
+This video lecture discusses the five steps to consider when building an AI system for customer service. These steps include identifying the value the system will create, determining data requirements, selecting appropriate techniques and tools, integrating the system into existing workflows, and ensuring organizational buy-in and culture alignment.

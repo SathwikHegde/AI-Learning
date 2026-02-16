@@ -1,2 +1,0 @@
-6.4 AI for Retail pt4
-This video lecture covers demand prediction and inventory management, which are crucial for the retail industry. AI can improve demand prediction in ways such as mining streaming data like social trends, and combining it with historical data.

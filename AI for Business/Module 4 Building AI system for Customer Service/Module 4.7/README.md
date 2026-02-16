@@ -1,0 +1,2 @@
+4.7 AI Team Sequence pt2
+This video lecture summarizes this AI system design process, considering user pain points and UX design. In parallel, the data sequence needs to be considered, which involves assessing the available data, the quality of data, and whether it is personal or non-personal data. Once the product architecture and team have been established, the data can be collected and used to build a product for customer service automation.

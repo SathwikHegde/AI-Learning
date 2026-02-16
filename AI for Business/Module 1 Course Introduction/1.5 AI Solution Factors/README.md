@@ -1,0 +1,1 @@
+This video lecture discusses key factors to consider for AI systems, including the type and amount of data available, the appropriate machine learning algorithms to use, the required speed of the system, the particular problem being addressed, the department and users of the system, and the industry in which the solution will be used.

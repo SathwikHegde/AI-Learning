@@ -1,0 +1,2 @@
+5.1 AI for Finance pt1
+This video lecture discusses the impact of AI in the finance industry, citing statistics that show the significant investment being made in the industry and the predicted growth in applying AI to financial activities and products. Reports indicate that the productivity gains from AI in finance could be as high as 43%, with predictions of trillions of dollars of impact on global GDP by 2030.

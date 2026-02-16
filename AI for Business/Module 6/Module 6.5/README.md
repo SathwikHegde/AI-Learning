@@ -1,2 +1,0 @@
-6.5 AI for Retail pt5
-This video lecture discusses various applications of AI in retail, including these examples: AI can be used for store management in physical and online stores. AI can optimize store layouts, identify errors in inventory and prices, and restock shelves. Robotic systems can partially replace human workers in restocking shelves. Sensor devices can make shelves smarter and recommend products to customers.
