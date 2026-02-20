@@ -1,0 +1,1 @@
+This is the project space based on the learnings from course AI for Business
