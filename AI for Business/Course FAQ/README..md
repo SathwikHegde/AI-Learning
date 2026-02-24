@@ -1,39 +1,68 @@
-Course FAQ
-AI FOR BUSINESS
+# AI for Business – Course FAQ
 
-FAQ 1: What are the prerequisites for the course?
+## 1. What are the prerequisites for the course?
 
-There are no technical background requirements for students who are interested in this course. The course implements some basic python skills.
+There are no technical background requirements for students interested in this course. The course does introduce and use some **basic Python skills**, but prior experience is not required.
 
-FAQ 2: How can I earn a certificate?
+***
 
-To earn a certificate, you must meet the criteria by viewing all of the learning pages, scoring 60% or more on the quizzes, and submitting a response to the self-check questions. Additionally, you must complete a 5 minute post-course survey. Then, you will have an option to pay for the certificate.
+## 2. How can I earn a certificate?
 
-FAQ 3: Will self-check questions be graded?
+To earn a certificate, you must complete **all** of the following:
 
-No. Only quizzes will be graded.
+*   View all learning pages
+*   Score **60% or higher** on the quizzes
+*   Submit responses to the self-check questions
+*   Complete a **5-minute post-course survey**
 
-FAQ 4: How many attempts do I have for each quiz?
+Once these requirements are met, you will have the option to **pay for and receive your certificate**.
 
-You will have unlimited attempts and time to complete all quizzes.
+***
 
-FAQ 5: Will there be instructor or course assistant support while I complete this course?
+## 3. Will self-check questions be graded?
 
-Unfortunately, there will not be an instructor nor course assistant monitoring this course. However, we highly encourage you to participate in all course discussions. You will be able to ask questions to and receive feedback from other course participants.
+No. **Only quizzes are graded**.  
+Self-check questions are provided for practice and reflection.
 
-FAQ 6: Where can I learn more about this topic?
+***
 
-To learn more, you can visit these courses in the Artificial Intelligence series:
+## 4. How many attempts do I have for each quiz?
 
-Learning AI Through Visualization
-Prompt Engineering & Programming with OpenAI
-Artificial Intelligence in Real Estate
-Artificial Intelligence I
-Artificial Intelligence II
-FAQ 7: Will I earn university credit for completing the certificate?
+You will have **unlimited attempts** and **no time limit** to complete all quizzes.
 
-No, one does not earn university credit for taking this course.
+***
 
-FAQ 8: What are the technical requirements for accessing this course?
+## 5. Will there be instructor or course assistant support?
 
-For the best learning experience, learners should take this course on their computer or laptop. The following browsers are recommended: Google Chrome, Safari, and Microsoft Edge.
+No instructor or course assistant will be actively monitoring this course. However, learners are **strongly encouraged to participate in course discussions**, where you can ask questions and receive feedback from fellow participants.
+
+***
+
+## 6. Where can I learn more about this topic?
+
+You can continue learning through the **Artificial Intelligence course series**, including:
+
+*   Learning AI Through Visualization
+*   Prompt Engineering & Programming with OpenAI
+*   Artificial Intelligence in Real Estate
+*   Artificial Intelligence I
+*   Artificial Intelligence II
+
+***
+
+## 7. Will I earn university credit for completing the certificate?
+
+No. Completing this course **does not provide university credit**.
+
+***
+
+## 8. What are the technical requirements for accessing this course?
+
+For the best learning experience, it is recommended that learners use a **computer or laptop**.  
+Supported browsers include:
+
+*   Google Chrome
+*   Safari
+*   Microsoft Edge
+
+***
