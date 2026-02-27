@@ -1,4 +1,4 @@
-# 🏗️ AI for Business: Project Space
+# AI for Business: Project Space
 
 ### *Columbia University | Applied AI Implementation*
 
