@@ -1,4 +1,4 @@
-# 🎬 Module 2.8: Generative AI for Audio and Video
+# Module 2.8: Generative AI for Audio and Video
 
 This directory explores the multimodal frontiers of Artificial Intelligence, specifically focusing on **Audio and Video Generation**. Building on our work with text and images, this unit demonstrates how to programmatically generate speech, clone voices, and create dynamic video content using state-of-the-art Generative AI APIs.
 
