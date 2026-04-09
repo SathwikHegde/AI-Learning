@@ -25,7 +25,6 @@ By the end of this module, you will be able to:
 * **Advanced Analytics**: Apply text analytics and knowledge graphs within a generative AI workflow.
 
 ---
-
 ## Included Materials
 * **Module 1 Lecture Slides**: Comprehensive slides covering the theoretical framework of RAG and vector databases.
 * **Hands-on Labs**: Technical exercises focused on implementing search and retrieval logic.
