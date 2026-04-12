@@ -1,49 +1,49 @@
-#  Module 1.2: Retrieval-Augmented Generation (RAG)
+# Module 1.3: Notebook Demo – Embedding Vectors and Cosine Similarity
 ### *Building Customized LLMs with OpenAI — Columbia Plus*
 
-In this unit, Professor Johar provides a deep dive into the mechanics of **Retrieval-Augmented Generation (RAG)**. This is the "secret sauce" that allows an LLM to look up information from a custom knowledge base before it speaks, ensuring that its answers are grounded in facts rather than creative guesswork.
+In this hands-on technical unit, Professor Johar transitions from RAG theory to implementation. This video walks you through the construction of a **Retrieval-Augmented Generation (RAG) chatbot** from scratch, using synthetic customer service data within the Google Colab environment.
 
 ---
 
-##  Learning Objectives
-The primary goal of this session is to understand how to "ground" an AI model in specific data. Key focus areas include:
-* **The RAG Workflow**: Mastering the three-step lifecycle: **Retrieval** (finding data), **Augmentation** (adding it to the prompt), and **Generation** (producing the answer).
-* **Chunking Strategies**: Learning how to break long documents into smaller, semantically meaningful pieces so the AI can ingest them efficiently.
-* **Vector Search Mechanics**: Understanding how "embeddings" allow the AI to search by *concept* rather than just *keywords*.
-* **Hallucination Mitigation**: Using RAG to restrict the model's response to provided context, drastically reducing the risk of false information.
+## Learning Objectives
+The primary goal of this demonstration is to understand the mathematical and logical operations that power AI search. Key focus areas include:
+* **Vector Creation**: Learning how to transform text data into numerical **embedding vectors** using the OpenAI API.
+* **Semantic Search**: Implementing **Cosine Similarity** to measure the "distance" between a user's question and the stored knowledge base.
+* **Synthetic Data Workflows**: Utilizing generated customer service data to test the chatbot's accuracy in a controlled sandbox.
+* **Context Retrieval**: Understanding how to select the most relevant "chunks" of data to pass into the LLM's prompt.
 
 ---
 
-##  Key Technical Concepts
+## Technical Concepts Covered
 
-### **1. Document Chunking**
-To process large datasets, we must "chunk" text into manageable segments.
-* **Fixed-size Chunking**: Splitting by character or word count.
-* **Semantic Chunking**: Splitting by paragraph or logical boundary to preserve context.
-* **Overlap**: Keeping a small portion of the previous chunk in the next to ensure no context is lost at the boundaries.
+### **1. Embedding Vectors**
+Text is converted into high-dimensional vectors. If two sentences have similar meanings (e.g., "How do I reset my password?" and "I forgot my login credentials"), their vectors will be positioned close to each other in mathematical space.
 
-### **2. The Vector Database**
-Think of this as a library where books are organized by *meaning* rather than by title.
-* **Embeddings**: Converting text into long lists of numbers (vectors) that represent its core concepts.
-* **Similarity Search**: When a user asks a question, the system finds the "nearest" vectors in the database to provide as context.
+### **2. Cosine Similarity**
+The core metric used to determine relevance:
+* **Definition**: A measure of similarity between two non-zero vectors that measures the cosine of the angle between them.
+* **Scale**: Ranges from **0 to 1** (in this context), where **1** represents identical semantic meaning and **0** represents no relation.
 
-### **3. Prompt Augmentation**
-The retrieved data is "stuffed" into the prompt alongside the user's question, essentially giving the AI an "open-book" exam.
-
----
-
-##  Skills & Knowledge Acquired
-* **Architecture Design**: Ability to sketch a RAG pipeline from raw PDF to final chatbot response.
-* **Context Management**: Identifying the optimal chunk size for different document types (e.g., legal contracts vs. short FAQs).
-* **Search Optimization**: Understanding why semantic search is superior to traditional keyword matching for complex queries.
+### **3. The Build Sequence**
+1.  **Load Data**: Import the synthetic customer service CSV/JSON.
+2.  **Embed**: Send the data to OpenAI to receive vector representations.
+3.  **Query**: Embed the user's live question.
+4.  **Calculate**: Run the Cosine Similarity math to find the top $N$ matches.
+5.  **Generate**: Feed the matches + the question to the LLM for a grounded answer.
 
 ---
 
-##  Module Progress
+## Skills & Knowledge Acquired
+* **Python for AI**: Proficiency in using `numpy` for vector math and `pandas` for data handling.
+* **API Orchestration**: Managing the flow of data between your notebook and OpenAI's embedding and completion models.
+* **Troubleshooting RAG**: Identifying why a model might retrieve the wrong information (e.g., poor chunking or low similarity thresholds).
+
+---
+
+## Module Progress
 To satisfy the requirements for this unit toward your **Columbia University Certificate**:
-1. **Watch** the 1.2 technical lecture on RAG.
-2. **Review** the visual diagrams of the Retrieval-Generation loop.
-3. **Ensure** your Google Colab environment is ready for the upcoming hands-on RAG implementation lab.
+1.  **Watch** the 1.3 Notebook Demo in full.
+2.  **Follow Along**: It is highly recommended to open the corresponding Google Colab notebook and execute the cells alongside the video.
+3.  **Verify**: Ensure your script can successfully return a relevant data chunk for a sample user query.
 
 ---
-
