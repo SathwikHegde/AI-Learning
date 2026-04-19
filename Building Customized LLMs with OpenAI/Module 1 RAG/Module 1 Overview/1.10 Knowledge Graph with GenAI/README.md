@@ -1,50 +1,50 @@
-# 🔍 Module 1.4: Vector Search – Retrieve Similar Vectors
+#  Module 1.10: Knowledge Graph with GenAI
 ### *Building Customized LLMs with OpenAI — Columbia Plus*
 
-In this unit, Professor Johar explores the algorithmic efficiency of **Vector Search**. As datasets scale from hundreds to millions of documents, simple math isn't enough—you need specialized algorithms to find relevant information instantly. This session focuses on the **Navigable Small Worlds (NSW)** algorithm, a core technique for high-performance vector retrieval.
+This unit introduces **Knowledge Graphs** as a sophisticated method for structuring entities and their relationships within text. Unlike standard vector databases that store data as isolated "points" in space, knowledge graphs map out how data points are interconnected, enabling more complex reasoning and efficient retrieval for domain-specific AI applications.
 
 ---
 
-## 🎯 Learning Objectives
-The primary goal of this session is to understand how vector databases navigate massive amounts of high-dimensional data. Key focus areas include:
-* **The Search Challenge**: Understanding why "Brute Force" search (comparing a query to every single vector) is too slow for production apps.
-* **Navigable Small Worlds (NSW)**: Learning how nodes (vectors) are linked in a graph to allow for "greedy" searching through the data.
-* **Proximity Graphs**: Understanding how mathematical relationships are used to create "short-cuts" across the data landscape.
-* **Efficiency vs. Accuracy**: Managing the trade-offs between search speed and the quality of the retrieved results.
+##  Learning Objectives
+The primary goal of this session is to move from semantic search to relational reasoning. Key focus areas include:
+* **Understanding Knowledge Graphs**: Defining what a graph-based data structure is and how it differs from traditional databases.
+* **Entity-Relationship Modeling**: Learning how to identify "Nodes" (entities like People, Places, or Concepts) and "Edges" (the relationships between them).
+* **Graph-RAG Integration**: Exploring how combining Knowledge Graphs with LLMs enhances retrieval-augmented generation.
+* **Domain-Specific Applications**: Identifying use cases in complex fields like medical research, fraud detection, and organizational mapping where relational data is critical.
 
 ---
 
-## 📂 Key Technical Concepts
+## Key Technical Concepts
 
-### **1. The "Small World" Phenomenon**
-Inspired by social network theory, this concept suggests that most nodes in a network can be reached from every other node by a small number of steps. In vector search, we build a graph where:
-* Vectors that are semantically similar are physically linked.
-* Long-distance links are added to allow the search "jump" quickly across the database.
+### **1. What is a Knowledge Graph?**
+A knowledge graph represents data in a network structure. It consists of:
+* **Nodes/Entities**: The "nouns" of your data (e.g., *OpenAI*, *GPT-4o*, *Sam Altman*).
+* **Edges/Predicates**: The "verbs" or relationships (e.g., *OpenAI* **developed** *GPT-4o*; *Sam Altman* **is the CEO of** *OpenAI*).
+* **Triples**: The fundamental unit of a graph, following the structure: `Subject -> Predicate -> Object`.
 
-### **2. Greedy Search Algorithm**
-When a user asks a question, the search doesn't look everywhere. Instead:
-1. It starts at a random entry point in the graph.
-2. It looks at the neighbors and moves to the one closest to the query vector.
-3. It repeats this until it can no longer find a neighbor that is closer.
+### **2. Why Use Graphs with GenAI?**
+While vector search is great at finding "similar" things, Knowledge Graphs excel at:
+* **Multi-hop Reasoning**: Answering questions that require connecting multiple pieces of information (e.g., "Find the founder of the company that created the model we are using").
+* **Hallucination Prevention**: Providing a verifiable, structured "truth" that the model can query directly.
+* **Contextual Breadth**: Surrounding a query with related entities that a simple vector search might miss.
 
-### **3. HNSW (Hierarchical Navigable Small Worlds)**
-A preview of the industry-standard evolution of NSW, which adds multiple layers (like a skip-list or a multi-level map) to make searches even faster.
-
----
-
-## 🛠️ Skills & Knowledge Acquired
-* **Algorithmic Literacy**: Understanding how modern vector databases (like Pinecone, Weaviate, or Milvus) actually work under the hood.
-* **Graph-Based Retrieval**: Moving beyond linear math to graph-based navigation strategies.
-* **System Scalability**: Identifying when a project requires an Approximate Nearest Neighbor (ANN) approach versus a simple exact search.
+### **3. Building Graphs with LLMs**
+Using models like GPT-4o to automatically extract structured triples from raw, unstructured text documents, significantly reducing the manual labor involved in graph construction.
 
 ---
 
-## ⭐ Module Progress
+## Skills & Knowledge Acquired
+* **Structural Thinking**: Ability to visualize complex business information as a network of interconnected facts.
+* **Advanced Retrieval**: Developing strategies for "Graph-RAG," where the AI navigates the knowledge graph to gather context for a response.
+* **Data Synthesis**: Learning how to unify fragmented data sources into a single, coherent knowledge architecture.
+
+---
+
+##  Module Progress
 To satisfy the requirements for this unit toward your **Columbia University Certificate**:
-1. **Watch** the 1.4 lecture on Vector Search algorithms.
-2. **Review** the visual representations of NSW graphs to understand the pathing logic.
-3. **Continue** to the next unit to see how these search techniques are applied to text analytics.
+1.  **Watch** the 1.10 Knowledge Graph with GenAI video in full.
+2.  **Visual Review**: Examine the graph diagrams provided in the lecture to understand how nodes and edges connect.
+3.  **Reflect**: How could a Knowledge Graph improve the "memory" or reasoning of the customer service chatbot you built earlier in this module?
 
 ---
 
-**Would you like me to explain the difference between "Exact Search" and "Approximate Nearest Neighbor" search in the context of business costs and latency?**
